@@ -27,7 +27,8 @@ dataset
     |      └── ...
     └── ...
 ```
-
+```
+2、Train from scratch with `train.py`.
 ## MAR-ships dataset link:
 ```bash
 ARGOS-Venice boat classification
